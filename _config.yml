@@ -1,11 +1,11 @@
 # Site settings
 author: Kelvin Waters
-title: 
+title: Follow the Rabbit: Into Data Science
 header-img: img/home-bg.png
 email: kelvin.waters@gmail.com
 copyright_name: Kelvin Waters
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Rabbit Hole Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Kelvincwaters
